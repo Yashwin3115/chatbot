@@ -1,0 +1,17 @@
+{
+    "version": "2024.1.1",
+    "packages": [
+      "numpy",
+      "wolframalpha",
+      "difflib"
+    ],
+    "files": [
+      "./knowledge_base.json",
+      "./query_count.json"
+    ],
+    "fetch": [
+      "https://pyscript.net/latest/pyscript.css"
+    ],
+    "entrypoint": "main.py"
+  }
+  
